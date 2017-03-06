@@ -1,0 +1,46 @@
+.f1
+     {
+     max-width: 420px;
+    width: 450px;
+       margin: auto;
+      width: 45%;
+     text-align: center;
+     
+   
+    }
+  .f2
+  {
+   
+    width: 150px;
+    text-align: center;
+    margin-top: 10px; 
+
+  }
+
+  .f3{
+     margin: auto;
+      width: 150px;  
+     width: 70%;
+    text-align: left;
+   
+  
+  }
+
+  .f4{
+    max-width: 420px;
+    width: 450px;
+       margin: auto;
+      width: 45%;
+     text-align: center;
+
+  }
+  
+  button {
+    background-color: #d7b10e;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
